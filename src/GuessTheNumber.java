@@ -15,7 +15,7 @@ public class GuessTheNumber {
             System.out.println("your guess is too low");
         } else if (randomNumber < userGuess) {
             System.out.println("your guess is too high");
-        } else {
+        } else {jh
             System.out.println("not in range");
         }
     }
