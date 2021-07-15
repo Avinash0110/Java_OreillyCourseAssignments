@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DivisibleByThree
+public class Proj3_2_DivisibleByThree
 {
 
     public static void main(String[] args) {

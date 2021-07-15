@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LearningPackages
+public class Proj3_1_LearningPackages
 {
     public static void main(String[] args)
     {
@@ -21,7 +21,7 @@ public class LearningPackages
                 {
                     totalCost=10;
                 }
-                System.out.println(totalCost);
+                System.out.println("total cost per month:"+totalCost);
                 break;
             case 2:
                 if(totalCourses>4)
@@ -32,7 +32,7 @@ public class LearningPackages
                 {
                     totalCost=12;
                 }
-                System.out.println(totalCost);
+                System.out.println("total cost per month:"+totalCost);
                 break;
             case 3:
                 if(totalCourses>6)
@@ -43,7 +43,7 @@ public class LearningPackages
                 {
                  totalCost=15;
                 }
-                System.out.println(totalCost);
+                System.out.println("total cost per month:"+totalCost);
                 break;
             default:
                 System.out.println("enter valid package...");
